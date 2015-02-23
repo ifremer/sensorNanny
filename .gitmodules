@@ -1,0 +1,15 @@
+[submodule "snanny-frontoffice"]
+	path = snanny-frontoffice
+	url = https://github.com/ifremer/snanny-frontoffice.git
+[submodule "snanny-backoffice-tools"]
+	path = snanny-backoffice-tools
+	url = https://github.com/ifremer/snanny-backoffice-tools.git
+[submodule "snanny-backoffice-core"]
+	path = snanny-backoffice-core
+	url = https://github.com/ifremer/snanny-backoffice-core.git
+[submodule "snanny-observatories"]
+	path = snanny-observatories
+	url = https://github.com/ifremer/snanny-observatories.git
+[submodule "snanny-storage"]
+	path = snanny-storage
+	url = https://github.com/ifremer/snanny-storage.git
